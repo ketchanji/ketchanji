@@ -1,3 +1,4 @@
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 [![MasterHead](https://www.trio.dev/hubfs/Imported_Blog_Media/263a75529a1752b75d64f9f21fd07c92-3-2.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Valery Djanya</h1>
 <h3 align="center">A passionate frontend developer from Cameroon</h3>
@@ -14,7 +15,7 @@
 - 📫 How to reach me **valerydjanya8@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/valery djanya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valery djanya" height="30" width="40" /></a>
@@ -39,3 +40,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ketchanji&show_icons=true&locale=en" alt="ketchanji" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ketchanji&" alt="ketchanji" /></p>
+
